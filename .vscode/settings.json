@@ -1,0 +1,6 @@
+{
+    "intelephense.completion.triggerParameterHints": true,
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+    "intelephense.phpdoc.useFullyQualifiedNames": true,
+    "php.version": "8.3"
+}
